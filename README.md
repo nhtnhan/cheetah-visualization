@@ -1,7 +1,7 @@
 # Creative Visualization for Cheetah, a Just-in-Time Taint Analysis Tool
 
 ## About
-Project Repository for CMPUT416 Course Project
+Project Repository for CMPUT416 Course Project  
 Paper title: Creative Visualization for Cheetah, a Just-in-Time Taint Analysis Tool 
 
 ## Team
